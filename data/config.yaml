@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Colin Gorrie
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -10,14 +10,11 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: false
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
-description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
-page_title:
-  "🪴 Quartz 3.2"
+GitHubLink: https://github.com/colingorrie/quartz/tree/hugo/content
+description: This is the wiki for the Biiraiverse, a worldbuilding project benevolently presided over by Colin Gorrie.
+page_title: "🦉 Biiraiverse"
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
+    link: https://twitter.com/colingorrie
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/colingorrie
