@@ -1,6 +1,6 @@
 baseURL = "https://world.colingorrie.com/"
 languageCode = "en-us"
-googleAnalytics = "G-XYFD95KB4J"
+googleAnalytics = "G-9RL102KYSY"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
