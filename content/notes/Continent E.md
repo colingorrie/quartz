@@ -4,7 +4,9 @@ title: "Continent E"
 
 ![[notes/images/continent-e.png]]
 
-## Western Continent E
+## Regions
+
+### Western Continent E
 
 The western coast of Continent E is dominated by speakers of [[notes/Qal languages|Qal languages]].
 
@@ -15,7 +17,7 @@ It contains the following climate zones:
 - Humid Subtropical
 - Mediterranean (West) - good fishing
 
-## Continent E Interior
+### Continent E Interior
 
 The interior of Continent E is inhabited by speakers of a hitherto undescribed language family (or families).
 
@@ -27,7 +29,7 @@ It contains the following climate zones:
 - Mountain Range (North)
 - Mountain Range (South)
 
-## Eastern Continent E
+### Eastern Continent E
 
 The eastern coast of Continent E is home to the speakers of a hitherto undescribed language family.
 
