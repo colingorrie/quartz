@@ -1,3 +1,7 @@
+---
+title: "History"
+---
+
 The **history** of the Biiraiverse is not yet well described.
 
 Topics to explore:

@@ -1,3 +1,7 @@
+---
+title: "Agriculture"
+---
+
 **Agriculture** emerged in at least three distinct places: these are the known as the "cradles of civilization". One was the southwestern corner of [[notes/Continent D|Continent D]], one was the northernmost point of [[notes/Continent A|Continent A]], and the third was the southern portion of [[notes/Continent E|Continent E]].
 
 ## Continent D Cradle of Civilization

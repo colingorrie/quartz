@@ -1,3 +1,7 @@
+---
+title: "Geography"
+---
+
 The **geography** of the Biiraiverse is only partially described. We are aware of five continents:
 
 - [[Continent A]]
