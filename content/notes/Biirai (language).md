@@ -26,7 +26,7 @@ title: "Biirai (language)"
 
 Phonetically, the vowels are usually produced more centrally than the phonemic chart indicates, i.e. /i/ = \[ɪ\], /u/ = \[ʊ\], /a/ = \[ɐ\]. This is true of both long and short vowels, e.g. /iː/ = \[ɪː\].
 
-There are also two diphthongs: /ai/ and /au/. Phonetically, these too are more centralized than their phonological representation might suggest: /ai/ = \[ɐɪ\], /ai/ = \[ɐʊ\].
+There are also two diphthongs: /ai/ and /au/. Phonetically, these too are more centralized than their phonological representation might suggest: /ai/ = \[ɐɪ\], /au/ = \[ɐʊ\].
 
 ### Syllable Structure
 

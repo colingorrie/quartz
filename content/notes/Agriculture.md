@@ -46,3 +46,4 @@ Creating an abundance of food [[notes/Sakrat languages|Sakrat]]-speaking peoples
 - [[Tarun swi]] (Seed fruit) - Weird fruit 2 – A fruit with a thick rind surrounding a white creamy fruit filled with small seeds. The fruit is edible and nutritious but very bland tasting. The seeds when roasted taste delicious hence the name. Picture a sort of white avocado filled with little seeds.
 - [[Ragum]] - Weird fruit 3 – Red fruit with spiny outer casing. Its flesh is chewy and sweet but tart. It has small seeds in the center.
 - [[Sedil]] - Weird fruit 4 – Savoury palm berries. Bright red berries with a slightly sweet but mostly kinda savoury taste. Imagine a red currant but with a taste like a well cooked chickpea.
+
