@@ -41,3 +41,35 @@ With these constraints in mind, we can characterize the maximal syllable in Biir
 ### Stress
 
 Stress in Biirai is root-initial.
+
+## Morphology
+
+### Valency and argument structure
+
+Each Biirai root has an intrinsic and inflexible argument structure. To use a root in a different argument structure configuration, explicit morphology is reguired. For example, the root **siitim** _move_ can only be used intransitively; to introduce a direct object, the suffixed form **siitim-an** _move (something)_ must be used.
+
+>[!EXAMPLE]
+> Use of the transitivizing suffix **-an**  
+> 
+> **minkii-siitim=nau**  
+> `hand-move=1NEUT`  
+> _My hand moves (lit. I hand-move)._  
+> 
+> **minkii-siitim-an=nau duu**  
+> `hand-move-TR=1NEUT 3D`  
+> _I move it (with my hand) (lit. I hand-move it)._  
+
+Similarly, to use intrinsically transitive roots intransitively, detransitivizing morphology is required. For example, the root **biirai** _await_ requires a direct object; only the suffixed form **biirai-t** _wait_ can be used intransitively.
+
+>[!EXAMPLE]
+> Use of the detransitivizing suffix **-(i)t**  
+> 
+> **biirai=bai bii rai biirai**  
+> `await=2HUM DEF ten stars`  
+> _You await the ten stars._  
+> 
+> **biirai-t=bai**  
+> `await-DETR=2HUM`  
+> _You wait._
+
+There is a handful of these valency-adjusting suffixes associated with dfferent argument structures, and the restrictions on the co-occurrence of these suffixes with various classes of roots is a topic of interest in Biirai morphosyntax.
