@@ -4,6 +4,41 @@ title: "Agriculture"
 
 **Agriculture** emerged in at least three distinct places: these are the known as the "cradles of civilization". One was the southwestern corner of [[notes/Continent D|Continent D]], one was the northernmost point of [[notes/Continent A|Continent A]], and the third was the southern portion of [[notes/Continent E|Continent E]].
 
+## Continent A Cradle of Civilization
+
+The second site is at the northern tip of [[notes/Continent A|Continent A]] where there is both a mediterranean and a subtropical climate. The group of cultures who inhabited this region are collectively called the [[Pre-Pkwak]], although they can be divided into two main groups. The western Pre-Pkwak peoples spread to the southwest along the mediterranean coast and along the hot steppe coast where they grow [[Tsatsu]] and other hardy crops. The eastern Pre-Pkwak peoples spread southest along the savanna coast. During this time the early [[notes/Biirai (people)]] culture emerges and trades goods from the desert with the Pre-Pkwak. The Biirai adopt some of the Pre-Pkwak agricultural practices and begin to grow [[Usuli]] and [[Tsatsu]] at their oases in the desert.
+
+### Staple starchy foods
+
+- [[Faɲi]] - A grain which can grow in water like rice. 
+- [[Suɲau]] - A high yield grain like wheat. 
+- [[Tsatsu]] - A lower yield but hardier grain like millet.
+
+### Protein
+
+- [[Hapa]] - A waterfowl like a duck.
+- [[notes/Qaña|Qaña]] - A mammal which gives wool and milk like an alpaca.
+- [[Xaŋi]] - A large mammal used as a beast of burden like a camel.
+- [[Cari]] - A small legume like a lentil. 
+- [[Muqa]] - A legume which grows underground like a peanut. 
+
+### Veggies
+
+- [[Ruci]] - a leafy vegetable like lettuce.
+- [[Xuqa]] - a long thin root vegetable like a carrot.
+- [[Jaŋu]] - a thick bulbous root like swede. 
+- [[Timihu]] - a vegetable with an edible stalk like asparagus.
+
+### Fruit
+
+- [[Usuli]] - Fruit of a palm tree like dates.
+- [[Wita]] - a fruit like pomegranate. 
+- [[Katsa]] - a fruit like figs.
+- [[Mati]] - a fruit like apricots. 
+- [[Wimixu]] - a fruit like peaches.
+- [[ʃana]] - a fruit like a plum.
+- [[ɲica]] - a fruit like cherries.
+
 ## Continent D Cradle of Civilization
 
 On the slopes of the mountains in the south of [[notes/Continent D|Continent D]] the [[notes/Proto-Sakrat|Proto-Sakrat]] speakers begin cultivating the root crops their hunter-gatherer ancestors ate. In terraces down the slopes of the mountain [[Nab]] is grown where there is an abundance of water as it tolerates even total submergence. Where it is drier, [[Ranik]] is grown. Fruit trees are propagated and stands of [[Dleg]] are planted. [[Pukak]], [[Dja|dja]] and [[Nrog|nrog]] are kept as livestock in pens and [[Kes|kes]] and [[Rabad|rabad]] are caught in the water.
@@ -46,4 +81,3 @@ Creating an abundance of food [[notes/Sakrat languages|Sakrat]]-speaking peoples
 - [[Tarun swi]] (Seed fruit) - Weird fruit 2 – A fruit with a thick rind surrounding a white creamy fruit filled with small seeds. The fruit is edible and nutritious but very bland tasting. The seeds when roasted taste delicious hence the name. Picture a sort of white avocado filled with little seeds.
 - [[Ragum]] - Weird fruit 3 – Red fruit with spiny outer casing. Its flesh is chewy and sweet but tart. It has small seeds in the center.
 - [[Sedil]] - Weird fruit 4 – Savoury palm berries. Bright red berries with a slightly sweet but mostly kinda savoury taste. Imagine a red currant but with a taste like a well cooked chickpea.
-
