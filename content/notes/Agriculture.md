@@ -129,3 +129,7 @@ Applying the manmade inanimate class prefix s- to certain foods creates the word
 - [[Sazaksuɓ]] - olive oil.
 - [[Siksiɓ]] - Wine.
 - [[Skeɣwe]] - Fermented beans.
+
+## Credits
+
+_Based largely on work by @SHIP._
