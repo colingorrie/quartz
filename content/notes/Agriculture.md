@@ -80,4 +80,52 @@ Creating an abundance of food [[notes/Sakrat languages|Sakrat]]-speaking peoples
 - [[Lep]] - Weird fruit 1 – A fruit a little larger than a mango divided into sections (usually 8-10), Each section has its own peel something like the skin of an orange although the fruit is a pale green all over. The individual segments once removed from the skin have a soft flesh a bit like a peach and each has a central seed. Picture a fruit made of several small peaches wrapped in orange skin.
 - [[Tarun swi]] (Seed fruit) - Weird fruit 2 – A fruit with a thick rind surrounding a white creamy fruit filled with small seeds. The fruit is edible and nutritious but very bland tasting. The seeds when roasted taste delicious hence the name. Picture a sort of white avocado filled with little seeds.
 - [[Ragum]] - Weird fruit 3 – Red fruit with spiny outer casing. Its flesh is chewy and sweet but tart. It has small seeds in the center.
-- [[Sedil]] - Weird fruit 4 – Savoury palm berries. Bright red berries with a slightly sweet but mostly kinda savoury taste. Imagine a red currant but with a taste like a well cooked chickpea.
+- [[Sedil]] - Weird fruit 4 – Savoury palm berries. Bright red berries with a slightly sweet but mostly savoury taste. Imagine a red currant but with a taste like a well cooked chickpea.
+
+## Continent E Cradle of Civilization
+
+Throughout the mediterranean and subtropical regions Maize is grown. The potatoes are more tolerant of cooler conditions and grow well where the maize cannot thrive. Animals are herded for their products and meat. Fruits and veggies are propagated deliberately.
+
+### Staple starchy foods
+
+- [[Kɯʄeʧ]] - a versatile grain like maize.
+- [[Kuɓʒa]] - an edible tuber like a potato.
+
+### Protein
+
+- [[Keɣwe]] - a legume like the common bean. 
+- [[Nɗoɓ]] - a mammal which provides wool and milk like a sheep.
+- [[Nɗapo]] - a mammal which provides milk like cattle. 
+- [[Nɗɯʎ]] - a mammal used as a beast of burden like a horse.
+
+### Veggies
+
+- [[Keʧ]] - A leafy vegetable like cabbage. 
+- [[Kazlez]] - A root vegetable like an onion. 
+- [[Koɗun]] - A vegetable with edible seed pods.
+- [[Kaɓʒe]] - A vegetable with a fruit like an aubergine. 
+- [[Kaɓatsɯɣ]] - an edible aquatic plant like water chestnut or lotus root.
+
+### Fruit
+
+- [[Ksiɓ]] - A vining fruit like grapes.
+- [[Kusnaʤ]] - A berry like a raspberry.
+- [[Kulɗat]] - A berry like a blackberry.
+- [[Kulʃa]] - A berry like a currant. 
+- [[Zaksuɓ]] - An oily tree fruit like a olive.
+- [[Zle]] - A tree fruit like an apple. 
+- [[Zuɗ]] - a tree fruit like a pear. 
+- [[Zintuʄ]] - a tree nut like almonds. 
+- [[Zwokɯn]] - a tree nut like walnuts. 
+
+### Processed mɓaʎok foods
+
+Applying the manmade inanimate class prefix s- to certain foods creates the word for processed versions of those foods.
+
+- [[Skɯʄeʧ]] - corn flour. Usually nixtamalized.
+- [[Skuɓʒa]] - dried potatoes like chuño.
+- [[Skeʧ]] - fermented cabbage.
+- [[Skazlez]] - pickled onions.
+- [[Sazaksuɓ]] - olive oil.
+- [[Siksiɓ]] - Wine.
+- [[Skeɣwe]] - Fermented beans.
