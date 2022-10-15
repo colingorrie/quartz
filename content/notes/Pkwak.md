@@ -10,11 +10,12 @@ Pkwak emerged out of a cluster of Sakrat B languages spoken by migrants to the n
 
 ## Dialects
 
-There are four major dialects of Pkwak: 
+During the period around the year 300 BP, there were four major dialects of Pkwak: 
 
 - Dialect S
 - Dialect M
-- Dialect 
+- Dialect G
+- Dialect T
 
 These dialects are often divergent grammatically, not only due to contributions in different proportions of the founding Sakrat B varieties, but also due to influence from different Pre-Pkwak substrate languages.
 
