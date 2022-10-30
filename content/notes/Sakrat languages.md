@@ -36,6 +36,6 @@ Around 700 BP, the Sakrat C1 language [[notes/Kra Nzlor|Kra Nzlor]] is different
 
 ### 500–0 BP
 
-The displacement of the Pre-Pkwak speakers of the northern peninsula of Continent A continued until the entire region was speaking a variety of Sakrat B2 called Pkwak. This process was complete by 300 BP.
+The displacement of the Pre-Pkwak speakers of the northern peninsula of Continent A continued until the entire region was speaking a variety of Sakrat B2 called [[notes/Pkwak|Pkwak]]. This process was complete by 300 BP.
 
 Around 400 BP, speakers of Kra Nzlor sailed to [[notes/Continent E|Continent E]] where they came to exert strong cultural influence on speakers of [[notes/Lenethailef|Lenethailef]] (the [[notes/Tarunian exchange|Tarunian exchange]]).
